@@ -8,6 +8,16 @@ This project explores and forecasts UK housing prices using historical property 
 - Data: Cleaned UK property transaction dataset with fields like Price, District, Date_of_Transfer, Property_Type, etc.
 - Techniques Used: Exploratory data analysis, feature engineering, ARIMA forecasting, confidence interval estimation, RMSE evaluation.
 
+## Dataset
+The dataset is available on Kaggle.
+🔗 UK Housing Dataset on Kaggle (https://www.kaggle.com/datasets/burhanimtengwa/uk-housing-cleaned).
+
+Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
+After downloading, place the CSV file in the data/ folder before running the scripts.
+
+Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
+After downloading, place the CSV file in the data/ folder before running the scripts.
+
 ## Tools & Libraries
 
 - Python (Pandas, NumPy)
