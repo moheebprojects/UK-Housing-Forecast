@@ -15,9 +15,6 @@ The dataset is available on Kaggle.
 Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
 After downloading, place the CSV file in the data/ folder before running the scripts.
 
-Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
-After downloading, place the CSV file in the data/ folder before running the scripts.
-
 ## Tools & Libraries
 
 - Python (Pandas, NumPy)
