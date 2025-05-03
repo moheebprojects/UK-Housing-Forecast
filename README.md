@@ -12,6 +12,9 @@ This project explores and forecasts UK housing prices using publicly available U
 The dataset is available on Kaggle.
 🔗 UK Housing Dataset on Kaggle (https://www.kaggle.com/datasets/burhanimtengwa/uk-housing-cleaned).
 
+![image](https://github.com/user-attachments/assets/2f18b1b5-5bac-435c-ba0c-047d4c042863)
+
+
 Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
 After downloading, place the CSV file in the data/ folder before running the scripts.
 
