@@ -15,6 +15,21 @@ The dataset is available on Kaggle.
 Note: Due to GitHub's file size restrictions, the dataset is not included in this repository.
 After downloading, place the CSV file in the data/ folder before running the scripts.
 
+Column Name	Type	Description
+transaction_id	String	Unique identifier for each property sale
+date	Date	Date when the transaction was recorded
+price	Integer	Final sale price of the property in GBP
+property_type	String	Type of property: Detached, Semi-Detached, Terraced, or Flat
+old_or_new	String	Indicates if the property is newly built (New) or existing (Old)
+duration	String	Type of tenure: Freehold or Leasehold
+town_city	String	Town or city where the property is located
+postcode	String	Full UK postcode of the property
+region	String	Regional area (e.g. London, East Midlands, Scotland)
+latitude	Float	Latitude coordinate for mapping (optional)
+longitude	Float	Longitude coordinate for mapping (optional)
+year	Integer	Year extracted from the transaction date
+month	Integer	Month extracted from the transaction date
+
 ## Tools & Libraries
 
 - Python (Pandas, NumPy)
