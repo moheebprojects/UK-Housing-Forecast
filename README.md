@@ -1,6 +1,6 @@
 # UK Housing Market Analysis & Forecasting
 
-This project explores and forecasts UK housing prices using historical property transaction data. It includes a comprehensive exploratory data analysis (EDA) followed by time series forecasting with the ARIMA model.
+This project explores and forecasts UK housing prices using publicly available UK housing transaction data, sourced from HM Land Registry. It covers housing sales across England, Wales, Scotland, and Northern Ireland from 1995 to 2023. It includes an exploratory data analysis (EDA) followed by time-series forecasting utilising ARIMA model.
 
 ## Project Overview
 
