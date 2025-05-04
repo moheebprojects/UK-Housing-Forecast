@@ -59,6 +59,5 @@ The dataset is available on Kaggle.
 ### Forecasting Output:
 
 - A plot showing actual historical prices vs. future forecast
-
 - 95% confidence interval shaded area to represent model uncertainty
 
