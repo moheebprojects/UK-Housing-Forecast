@@ -2,9 +2,26 @@
 
 This project explores and forecasts UK housing prices using publicly available UK housing transaction data, sourced from HM Land Registry. It covers housing sales across England, Wales, Scotland, and Northern Ireland from 1995 to 2023. It includes an exploratory data analysis (EDA) followed by time-series forecasting utilising ARIMA model.
 
-The project is broken into two main clear modules:
-Data Cleaning & Exploratory Analysis
-Time Series Forecasting (ARIMA)
+The project is broken into three clear modules:
+1) Data Cleaning
+2) Data Exploratory Analysis
+3) Time Series Forecasting (ARIMA)
+
+uk-housing-forecasting/
+│
+├── data/                    # <- Place the dataset CSV here (after download)
+│   └── property_data_clean.csv
+│
+├── eda_plots/               # <- Saved plots from EDA (auto-generated)
+├── forecast plots/          # <- Saved plots from forecasting module
+│
+├── uk_housing_cleaning.py   # <- Preprocessing & data cleaning script
+├── uk_housing_eda.py        # <- EDA: trend analysis, price groupings, visualizations
+├── uk_housing_forecast.py   # <- Time series forecasting with ARIMA
+│
+├── requirements.txt         # <- Python dependencies
+└── README.md                # <- This file
+
 
 ## Project Overview
 
