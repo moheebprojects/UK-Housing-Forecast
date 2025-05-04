@@ -7,22 +7,6 @@ The project is broken into three clear modules:
 2) Data Exploratory Analysis
 3) Time Series Forecasting (ARIMA)
 
-uk-housing-forecasting/
-│
-├── data/                    # <- Place the dataset CSV here (after download)
-│   └── property_data_clean.csv
-│
-├── eda_plots/               # <- Saved plots from EDA (auto-generated)
-├── forecast plots/          # <- Saved plots from forecasting module
-│
-├── uk_housing_cleaning.py   # <- Preprocessing & data cleaning script
-├── uk_housing_eda.py        # <- EDA: trend analysis, price groupings, visualizations
-├── uk_housing_forecast.py   # <- Time series forecasting with ARIMA
-│
-├── requirements.txt         # <- Python dependencies
-└── README.md                # <- This file
-
-
 ## Project Overview
 
 - Goal: Understand trends in UK housing prices and forecast future prices.
