@@ -31,7 +31,7 @@ The dataset is available on Kaggle.
 
 - Converted dates to datetime format
 - Removed duplicates and dropped unnecessary columns
-- Filtered outliers using 5th–95th percentiles
+- Filtered outliers using 5th–95th percentiles of house prices
 
 ## Module 2: Exploratory Data Analysis 
 - Extracted Sale_Year, Sale_Month, and Sale_Month_Name
