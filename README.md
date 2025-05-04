@@ -48,7 +48,6 @@ The dataset is available on Kaggle.
 - Converted dates to datetime format
 - Removed duplicates and dropped unnecessary columns
 - Filtered outliers using 5th–95th percentiles
-- Feature engineering:
 - Extracted Sale_Year, Sale_Month, and Sale_Month_Name
 - Visualized trends in:
 - Yearly average house prices
@@ -80,10 +79,3 @@ A plot showing actual historical prices vs. future forecast
 
 95% confidence interval shaded area to represent model uncertainty
 
-## Forecasting Highlights
-
-- Applied ADF test to ensure stationarity of the time series
-- Fit an ARIMA(1,1,1) model on historical average yearly prices
-- Forecasted housing prices for the next 5 years
-- Evaluated performance using RMSE
-- Included confidence intervals around predictions
