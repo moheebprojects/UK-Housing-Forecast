@@ -41,6 +41,7 @@ The dataset is available on Kaggle.
 - Price distributions via boxplots
 
 ### Key Insights:
+
 Detached homes have consistently higher prices than other property types.
 
 Old builds tend to be more expensive than newer properties.
