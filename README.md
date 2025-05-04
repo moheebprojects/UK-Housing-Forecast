@@ -40,7 +40,7 @@ The dataset is available on Kaggle.
 - Top and bottom 10 districts by average price
 - Price distributions via boxplots
 
-### Key Insights:
+### Key Insights:
 
 - Detached homes have consistently higher prices than other property types.
 
