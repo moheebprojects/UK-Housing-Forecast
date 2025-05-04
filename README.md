@@ -41,13 +41,13 @@ The dataset is available on Kaggle.
 - Price distributions via boxplots
 
 Key Insights:
-Detached homes have consistently higher prices than other property types
+Detached homes have consistently higher prices than other property types.
 
-Old builds tend to be more expensive than newer properties
+Old builds tend to be more expensive than newer properties.
 
-Number houses sold peak during summer months (June–August)
+Number houses sold peak during summer months (June–August).
 
-Wide variation in district-level pricing, with clear regional disparities
+There is a wide variation in district-level pricing, with clear regional disparities.
 
 ## Module 2: Forecasting UK House Prices (uk_housing_forecast.py)
 
