@@ -65,7 +65,7 @@ Example Insights:
 
 🏘️ Wide variation in district-level pricing, with clear regional disparities
 
-## Module 2: Forecasting UK House Prices (uk_housing_forecast.py)
+## Module 2: Forecasting UK House Prices (uk_housing_forecast.py)
 
 - Conducted stationarity testing using the Augmented Dickey-Fuller (ADF) test
 - Fit an ARIMA(1,1,1) model to average yearly housing prices
