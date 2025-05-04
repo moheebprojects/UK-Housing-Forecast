@@ -27,11 +27,13 @@ The dataset is available on Kaggle.
 - Statsmodels (ARIMA, ADF Test) – for time series forecasting
 - Scikit-learn – RMSE evaluation
 
-## Module 1: Data Cleaning & Exploratory Analysis (uk_housing_eda.py)
+## Module 1: Data Cleaning 
 
 - Converted dates to datetime format
 - Removed duplicates and dropped unnecessary columns
 - Filtered outliers using 5th–95th percentiles
+
+## Module 2: Exploratory Data Analysis 
 - Extracted Sale_Year, Sale_Month, and Sale_Month_Name
 - Visualized trends in:
 - Yearly average house prices
@@ -47,7 +49,7 @@ The dataset is available on Kaggle.
 - Number houses sold peak during summer months (June–August).
 - There is a wide variation in district-level pricing, with clear regional disparities.
 
-## Module 2: Forecasting UK House Prices (uk_housing_forecast.py)
+## Module 3: Forecasting UK House Prices (uk_housing_forecast.py)
 
 - Conducted stationarity testing using the Augmented Dickey-Fuller (ADF) test
 - Fit an ARIMA(1,1,1) model to average yearly housing prices
