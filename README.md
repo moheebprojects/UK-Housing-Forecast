@@ -59,7 +59,8 @@ The dataset is available on Kaggle.
 - Evaluated model performance with Root Mean Squared Error (RMSE)
 - Compared predictions against a held-out test set
 
-Forecasting Output:
+### Forecasting Output:
+
 A plot showing actual historical prices vs. future forecast
 
 95% confidence interval shaded area to represent model uncertainty
