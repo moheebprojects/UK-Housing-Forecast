@@ -4,4 +4,3 @@
 
 
 
-<img width="1019" alt="Screenshot 2025-05-04 at 15 40 38" src="https://github.com/user-attachments/assets/628e0aca-428f-4c0d-b41b-f7f298840655" />
