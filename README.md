@@ -51,15 +51,15 @@ The dataset is available on Kaggle.
 
 ## Module 3: Forecasting UK House Prices (uk_housing_forecast.py)
 
-- Conducted stationarity testing using the Augmented Dickey-Fuller (ADF) test
-- Fit an ARIMA(1,1,1) model to average yearly housing prices
-- Forecasted house prices 5 years into the future
-- Plotted confidence intervals for forecast estimates
-- Evaluated model performance with Root Mean Squared Error (RMSE)
-- Compared predictions against a held-out test set
+- Conducted stationarity testing using the Augmented Dickey-Fuller (ADF) test.
+- Fit an ARIMA(1,1,1) model to average yearly housing prices.
+- Forecasted house prices 5 years into the future.
+- Plotted confidence intervals for forecast estimates.
+- Evaluated model performance with Root Mean Squared Error (RMSE).
+- Compared predictions against a held-out test set.
 
 ### Forecasting Output:
 
-- A plot showing actual historical prices vs. future forecast
-- 95% confidence interval shaded area to represent model uncertainty
+- A plot showing actual historical prices vs. future forecast.
+- 95% confidence interval shaded area to represent model uncertainty.
 
